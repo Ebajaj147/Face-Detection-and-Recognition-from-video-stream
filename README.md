@@ -1,2 +1,2 @@
 # Face-recognition
-Python program for face detection and face recognition
+Making use of Haarcascades and OpenCV to train and identify faces.
